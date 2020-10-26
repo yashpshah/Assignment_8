@@ -1,2 +1,3 @@
 # Assignment_8
- Employee_management_system_javascript
+ * Used window object and provided form validation using javascript
+ * Used onclick listeners and handled the requirements
